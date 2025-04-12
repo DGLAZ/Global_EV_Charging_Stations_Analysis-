@@ -53,6 +53,4 @@ Stay tuned for Part 2, where I’ll share the results of my analysis and the ins
 Let’s Connect!
 I’d love to hear your thoughts on this project. Have you worked on similar data cleaning challenges? What tools or techniques do you use to ensure data integrity? Let’s discuss in the comments! 💬
 
-#DataScience #DataCleaning #Python #ElectricVehicles #DataAnalysis #BigData #MachineLearning #Sustainability #TechInnovation #DataQuality #EVCharging #Analytics
-
 
